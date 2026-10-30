@@ -70,11 +70,11 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> At the Japanese Grand Prix, race winner VER employed a "Medium -> Hard" tire strategy, while STR—who opted for the most distinct approach—used a "Soft -> Hard -> Medium" strategy; these differed in terms of the types of tires used, the duration of each stint, and the sequence. Notably, the total length of the bars representing STR’s stints is slightly shorter than those of the other drivers, which may indicate that he did not complete the full race distance.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> For the British Grand Prix, I selected Lando Norris (NOR). The race trace illustrates how the relative gaps between the drivers evolved over the course of the race. It can be observed that around lap 20, the gaps between all the drivers were quite small; the differences only began to widen thereafter, with the period between laps 40 and 45 ultimately determining the outcome of the race.
 
 **Bonus** (optional): which race did you add, and why?
 

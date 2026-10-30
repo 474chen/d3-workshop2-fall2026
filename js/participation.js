@@ -93,7 +93,8 @@ onRaceChange(race => {
     // TODO STEP 1: Create the scales
     const y = d3.scaleBand()
         .domain(race.drivers.map(d => d.driver_number))
-        .range([margin.top, margin.top + race.drivers.length * rowHeight]);
+        .range([margin.top, margin.top + race.drivers.length * rowHeight])
+        .paddingInner(0.2);
     x = d3.scaleLinear()
         .domain([0, race.maxLap])
         .range([margin.left, width - margin.right]);
