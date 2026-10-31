@@ -78,7 +78,7 @@ git push
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> I have added the 2024 Monaco Grand Prix. As a highly distinctive street circuit, its extremely narrow roads make overtaking nearly impossible. Race outcomes hinge on strategy and qualifying performance; this leads to a clear divergence between "Chart 2" and "Chart 3," while also making the impact of different strategies immediately apparent.
 
 ---
 
